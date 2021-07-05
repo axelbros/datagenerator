@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9c5wml2ql83pdccj?svg=true)](https://ci.appveyor.com/project/axelbros/datagenerator)
