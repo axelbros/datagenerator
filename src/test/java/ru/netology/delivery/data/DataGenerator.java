@@ -40,11 +40,7 @@ public class DataGenerator {
             private Registration() {
             }
 
-           // public static UserInfo generateUser(String locale) {
-                // TODO: добавить логику для создания пользователя user с использованием методов generateCity(locale),
-                // generateName(locale), generatePhone(locale)
-           //     return user;
-           // }
+
         }
 
         @Value
